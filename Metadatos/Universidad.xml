@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es">
+	<Esri>
+		<CreaDate>2023-12-04</CreaDate>
+		<CreaTime>11344800</CreaTime>
+		<ModDate>2023-12-17</ModDate>
+		<ModTime>12:40:08.51</ModTime>
+		<PublishStatus>editor:esri.dijit.metadata.editor</PublishStatus>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<ArcGISstyle>ISO 19139 Metadata Implementation Specification GML3.2</ArcGISstyle>
+		<ArcGISProfile>NAP</ArcGISProfile>
+		<MapLyrSync>false</MapLyrSync>
+		<SyncOnce>TRUE</SyncOnce>
+	</Esri>
+	<mdHrLv>
+		<ScopeCd value="005"/>
+	</mdHrLv>
+	<mdFileID>Metadatos de la capa universidad</mdFileID>
+	<mdLang>
+		<languageCode value="spa"/>
+	</mdLang>
+	<mdChar>
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdContact>
+		<rpIndName>Keisy Granja, Paula Peña, Valentina Rivera</rpIndName>
+		<role>
+			<RoleCd value="011"/>
+		</role>
+	</mdContact>
+	<mdDateSt>2023-12-17</mdDateSt>
+	<mdTimeSt>12:39:57.36</mdTimeSt>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>Universidad</resTitle>
+			<date>
+				<pubDate>2023-12-17T12:22:02</pubDate>
+			</date>
+			<citRespParty>
+				<rpIndName>Keisy granja, Paula Peña, Valentina Rivera</rpIndName>
+				<role>
+					<RoleCd value="011"/>
+				</role>
+			</citRespParty>
+		</idCitation>
+		<idAbs>&lt;p&gt;Esta capa muestra información alfanumérica como la dirección, nombre, sede y espacial como el área contenida en el perimetro universitario.&lt;/p&gt;</idAbs>
+		<idPurp>El propósito de esta capa es acerca mostrar los datos del alfanuméricos y espaciales del perímetro de la universidad del Valle.</idPurp>
+		<idCredit>El ortomosaico fue proporcionado por el docente Robin Olaya  y la digitalización fue realizada por los estudiantes Valentina Rivera, Paula Peña y Keisy Granja</idCredit>
+		<dataLang>
+			<languageCode value="spa"/>
+		</dataLang>
+		<dataChar>
+			<CharSetCd value="004"/>
+		</dataChar>
+		<idStatus>
+			<ProgCd value="001"/>
+		</idStatus>
+		<tpCat>
+			<TopicCatCd value='016'/>
+		</tpCat>
+		<searchKeys>
+			<keyword>Hurtos</keyword>
+			<keyword>Sig3</keyword>
+			<keyword>Univalle</keyword>
+			<keyword>Cali</keyword>
+		</searchKeys>
+		<resConst>
+			<Consts>
+				<useLimit>&lt;p&gt;Uso educativo&lt;/p&gt;</useLimit>
+			</Consts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="008"/>
+				</accessConsts>
+				<othConsts>Otras restricciones</othConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+				<othConsts>Otras restricciones</othConsts>
+			</LegConsts>
+		</resConst>
+	</dataIdInfo>
+</metadata>
